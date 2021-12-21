@@ -1,0 +1,15 @@
+db.sqlite3
+
+__pycache__/
+*/__pycache__/
+*.py[cod]
+
+
+.vs/VSWorkspaceState.json
+.vs/Мойсклад/v17/.suo
+.vs/slnx.sqlite
+
+!*media/.gitkeep
+media/*
+mystorage/media
+*.pyc
